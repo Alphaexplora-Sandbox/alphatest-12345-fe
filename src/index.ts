@@ -1,0 +1,1 @@
+export const SERVICE_NAME = 'alphatest-12345-frontend';
